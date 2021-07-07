@@ -1,6 +1,6 @@
 # Hi! I’m Gilbert
 
-I'm a Software Engineer living and working in the North of Scotland. I currently work as a Web Developer for Delicious Brains and run my own one-man web development studio Dev7studios.
+I'm a Software Engineer living and working in the North of Scotland. I'm currently co-founder & CTO of [Lemon Squeezy](https://www.lemonsqueezy.com/) and run my own one-man web development studio [Dev7studios](https://dev7studios.co/).
 
 * [Find out more about me](https://gilbitron.me/)
 * [I tweet about web development, tech and life](https://twitter.com/gilbitron)
